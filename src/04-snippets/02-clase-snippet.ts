@@ -19,6 +19,13 @@ class Hero {
 } 
 
 
+class Ricardo {
 
+   constructor() {
+      console.log('Ricardo initialized');
+   }
 
-
+   showRicardo() {
+      return this;
+   }
+}
